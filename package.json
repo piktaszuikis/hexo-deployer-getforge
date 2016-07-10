@@ -1,0 +1,24 @@
+{
+  "name": "hexo-deployer-getforge",
+  "version": "0.0.1",
+  "description": "Git deployer plugin of GetForge.",
+  "main": "index",
+  "directories": {
+    "lib": "./lib"
+  },
+  "repository": "hexojs/hexo-deployer-getforge",
+  "homepage": "https://hexo.io/",
+  "keywords": [
+    "hexo",
+    "getforge",
+    "deploy",
+    "deployer"
+  ],
+  "author": "Piktas Zuikis <piktas.zuikis@yahoo.com> (http://piktas-zuikis.getforge.io/)",
+  "license": "WTFPL",
+  "dependencies": {
+    "archiver": "^1.0.0",
+    "hexo-fs": "^0.1.5",
+    "request": "^2.73.0"
+  }
+}
