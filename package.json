@@ -6,7 +6,7 @@
   "directories": {
     "lib": "./lib"
   },
-  "repository": "hexojs/hexo-deployer-getforge",
+  "repository": "piktaszuikis/hexo-deployer-getforge",
   "homepage": "https://hexo.io/",
   "keywords": [
     "hexo",
