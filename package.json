@@ -1,6 +1,6 @@
 {
   "name": "hexo-deployer-getforge",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Git deployer plugin of GetForge.",
   "main": "index",
   "directories": {
